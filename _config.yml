@@ -24,7 +24,7 @@ repository: "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "newProfile.png"
   name: "Savelii Vorotnikov"
   pronouns: he/him/his# example: "she/her"
   bio: "B.S. in CS & AMS @ Stony Brook University"
